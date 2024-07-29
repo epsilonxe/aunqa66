@@ -1,7 +1,5 @@
 # AUN-QA SAR 2566: B.Sc. (Applied Mathematics)
 
-------
-
 ## Criteria 1
 
 ### Criteria 1.1
@@ -11,9 +9,9 @@
 
 ### Criteria 1.2
 
-- AM-AUN.1.2.1
-- AM-AUN.1.2.2
-- AM-AUN.1.2.3
+- [AM-AUN.1.2.1](.storage/AM-AUN.1.2.1.pdf)
+- [AM-AUN.1.2.2](.storage/AM-AUN.1.2.2.pdf)
+- [AM-AUN.1.2.3](.storage/AM-AUN.1.2.3.pdf)
 
 ### Criteria 1.3
 
@@ -28,7 +26,6 @@
 
 - AM-AUN.1.5.1
 
-------
 
 ## Criteria 2
 
@@ -71,7 +68,6 @@
 - AM-AUN.2.7.2
 - AM-AUN.2.7.3
 
-------
 
 ## Criteria 3
 
@@ -101,7 +97,6 @@
 - AM-AUN.3.6.1
 - AM-AUN.3.6.2
 
-------
 
 ## Criteria 4
 
@@ -140,7 +135,6 @@
 - AM-AUN.4.7.1
 - AM-AUN.4.7.2
 
-------
 
 ## Criteria 5
 
@@ -180,7 +174,6 @@
 - AM-AUN.5.8.2
 - AM-AUN.5.8.3
 
-------
 
 ## Criteria 6
 
@@ -214,8 +207,6 @@
 
 - AM-AUN.6.6.1
 
-
-------
 
 ## Criteria 7
 
@@ -259,7 +250,6 @@
 - AM-AUN.7.9.1
 - AM-AUN.7.9.2
 
---------
 
 ## Criteria 8
 
