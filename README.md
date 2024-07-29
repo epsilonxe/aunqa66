@@ -6,8 +6,8 @@
 
 ### Criteria 1.1
 
-	- [AM-AUN.1.1.1](storage/AM-AUN.1.1.1.pdf)
-	- [AM-AUN.1.1.2](storage/AM-AUN.1.1.2.pdf)
+	- [AM-AUN.1.1.1](./storage/AM-AUN.1.1.1.pdf)
+	- [AM-AUN.1.1.2](./storage/AM-AUN.1.1.2.pdf)
 
 ### Criteria 1.2
 
