@@ -56,7 +56,7 @@ subtitle: B.Sc. (Applied Mathematics), RMUTT
 ## Criteria 2.4
 
 - N/A
-[
+
 ## Criteria 2.5
 
 - N/A
